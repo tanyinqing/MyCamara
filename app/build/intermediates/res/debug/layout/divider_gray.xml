@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+    android:background="@color/Lightgrey"
+    android:orientation="vertical" >
+
+</LinearLayout>
+<!-- From: file:/D:/studiospace/TanUseApp/MyCamara/tanaar_171207/src/main/res/layout/divider_gray.xml --><!-- From: file:/D:/studiospace/TanUseApp/MyCamara/app/build/intermediates/exploded-aar/MyCamara/tanaar_171207/unspecified/res/layout/divider_gray.xml -->

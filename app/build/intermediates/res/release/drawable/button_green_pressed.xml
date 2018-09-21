@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+   <solid android:color="@color/TypefaceColor"/>
+    <corners android:radius="4dp" />
+</shape><!-- From: file:/D:/studiospace/MiniDemo/MyCamara/tanaar_171207/src/main/res/drawable/button_green_pressed.xml --><!-- From: file:/D:/studiospace/MiniDemo/MyCamara/app/build/intermediates/exploded-aar/MyCamara/tanaar_171207/unspecified/res/drawable/button_green_pressed.xml -->

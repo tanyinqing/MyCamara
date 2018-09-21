@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/input_text_f" android:state_pressed="true"/>
+    <item android:drawable="@drawable/input_text_f" android:state_focused="true" android:state_pressed="false"/>
+    <item android:drawable="@drawable/input_text_n"/>
+</selector><!-- From: file:/D:/studiospace/TanUseApp/MyCamara/tanaar_171207/src/main/res/drawable/editview_shape_selector.xml --><!-- From: file:/D:/studiospace/TanUseApp/MyCamara/app/build/intermediates/exploded-aar/MyCamara/tanaar_171207/unspecified/res/drawable/editview_shape_selector.xml -->

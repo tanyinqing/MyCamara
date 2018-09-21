@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor1">#ffffff</color>
+    <color name="textColor3">#bdbdbd</color>
+    <color name="textColor4">#666666</color>
+    <color name="textColor5">#333333</color>
+    <color name="textColor6">#74E550</color>
+    <color name="textColor7">#F19553</color>
+    <color name="textColor8">#54F4A9</color>
+    <color name="textColor9">#4E8DEF</color>
+    <color name="textColor10">#F05554</color>
+    <color name="textColor11">#1B1B1B</color>
+
+    <color name="button_bg1">#75E653</color>
+    <color name="button_bg2">#C7C7C7</color>
+
+    <color name="background1">#333333</color>
+    <!--这个是状态栏的颜色-->
+    <color name="background2">#25527C</color>
+    <!--这个是标题栏的颜色-->
+    <color name="background3">#1F4469</color>
+    <color name="background4">#F1F1F1</color>
+    <color name="background5">#FFFFFF</color>
+    <!--这个是亮灰色分割线-->
+    <color name="Lightgrey">#d3d3d3</color>
+    <!--这个是透明色-->
+    <color name="transparent">#00000000</color>
+    <!--背景色-->
+    <color name="themeColor">#3377cc</color>
+    <!--主色调-->
+    <color name="app_color">#3377cc</color>
+    <!--文字微软雅黑-->
+    <color name="TypefaceColor">#dcdcdc</color>
+    <!--文字微软雅黑2-->
+    <color name="TypefaceColor2">#555555</color>
+    <!--文字微软雅黑2-->
+    <color name="TypefaceColor3">#ffffff</color>
+    <!--白色-->
+    <color name="white">#FFFFFFFF</color>
+    <!--透明 -->
+    <color name="lib_color_list_divider">#c4cbdd</color>
+    <!--红紫色 -->
+    <color name="red">#FF0000</color>
+<!--这个是扫描二维码用到的颜色-->
+    <color name="viewfinder_frame">#ffff0000</color>
+    <color name="viewfinder_laser">#00CC00</color>
+    <color name="viewfinder_mask">#66000000</color>
+    <color name="result_view">#b0000000</color>
+</resources>

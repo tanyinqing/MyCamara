@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageView4"
+        android:layout_gravity="center_vertical"
+        android:padding="5dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="1">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="DN02781465531"
+                android:id="@+id/tv_prochsn"
+                android:layout_weight="1"
+                android:textColor="@color/textColor5" />
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/iv_stock"
+    android:layout_marginRight="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="装件中"
+                android:id="@+id/tv_status_name"
+                android:layout_marginRight="10dp"
+                android:paddingLeft="0dp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="新会展中心南门"
+            android:id="@+id/tv_store"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="@color/textColor4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="2018-02-25 22:33"
+            android:id="@+id/tv_data"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="@color/textColor4" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/iv_proch_status"
+       />
+
+
+</LinearLayout><!-- From: file:/D:/studiospace/TanUseApp/MyCamara/tanaar_171207/src/main/res/layout/item_rece_proch.xml --><!-- From: file:/D:/studiospace/TanUseApp/MyCamara/app/build/intermediates/exploded-aar/MyCamara/tanaar_171207/unspecified/res/layout/item_rece_proch.xml -->
